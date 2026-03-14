@@ -13,7 +13,7 @@ Simple project for Microprocessors and Microcontrollers class
 - (optional) 9V battery clip with DC plug (2.1 mm)
 
 # Tinkercad Connection Diagram
-(TODO)
+![Schematic](https://github.com/nevermore19/chessClock/blob/main/Schematic.png)
 
 # Code
 The project was initially prototyped using an Arduino sketch (.ino file created by [Wiktor-Sikora](https://github.com/Wiktor-Sikora)) to verify hardware functionality. 
