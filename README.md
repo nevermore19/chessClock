@@ -16,5 +16,5 @@ Simple project for Microprocessors and Microcontrollers class
 (TODO)
 
 # Code
-The project was initially prototyped using an Arduino sketch (.ino file created by @Wiktor-Sikora) to verify hardware functionality. 
+The project was initially prototyped using an Arduino sketch (.ino file created by [Username](https://github.com/Wiktor-Sikora))to verify hardware functionality. 
 Once the concept was validated, the final application was rewritten in C.
